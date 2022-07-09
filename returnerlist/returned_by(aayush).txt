@@ -1,0 +1,8 @@
+return_date = 2021-09-06 20: 46: 23
+name = aayush
+book = The Lean startup
+fine = 210
+return_date = 2021-09-06 20: 56: 26
+name = aayush
+book = The Lean startup
+fine = 210

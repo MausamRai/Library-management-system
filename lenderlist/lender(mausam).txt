@@ -1,0 +1,3 @@
+lenddate= 2021-09-0714: 20: 57
+name = mausam
+book =The Lean startup

@@ -1,0 +1,7 @@
+return_date = 2021-09-06 20: 38: 19
+name = gautam
+book = The Lean startup
+return_date = 2021-09-07 16: 40: 31
+name = gautam
+book = The Lean startup
+fine = 210

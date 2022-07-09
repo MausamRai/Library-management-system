@@ -1,0 +1,4 @@
+lenddate= 2021-09-0714: 32: 14
+name = gauatam
+book =The Lean startup
+price =15
